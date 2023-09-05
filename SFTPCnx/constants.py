@@ -1,0 +1,7 @@
+CHANGED_PATH = "Path changed to %s"
+CLOSE_CONNECTION = "The connection was closed."
+DOWNLOADED_FILE = "%s file was downloaded successfully."
+ESTABLISHED_CONNECTION = "Connection established to %s"
+MISSING_ATTRIBUTES = "Missing attributes."
+NO_CONNECTION = "There is no connection."
+UPLOADED_FILE = "%s file was uploaded successfully."
